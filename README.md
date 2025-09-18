@@ -39,11 +39,9 @@
 
 ---
 
+
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO_DO_GITHUB_AQUI">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB_AQUI&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <img src="https://metrics.lecoq.io/Otavio-C-Oliveira?template=classic&config_timezone=America/Sao_Paulo&base.header=true&base.activity=true&base.community=true&base.repositories=true&base.metadata=true&lines=true&lines.repositories=true&lines.commits=true&pagespeed=true&pagespeed.url=https://github.com/Otavio-C-Oliveira" alt="Metrics"/>
 </p>

@@ -1,4 +1,4 @@
-# Olá, eu sou [Otávio Cristhian de Oliveira] 👋
+# Olá, eu sou  Otávio Cristhian de Oliveira  👋
 
 ### 👨‍💻 Sobre mim
 - 🚀 Atualmente trabalho na **AGX Software**.
